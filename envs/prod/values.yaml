@@ -1,0 +1,3 @@
+externalIPs:
+- 10.178.0.60
+nodeSelector: default
